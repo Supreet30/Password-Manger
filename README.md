@@ -15,7 +15,7 @@ A simple and secure desktop password manager built with Python. This application
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python 3.10+
 - Tkinter – for GUI
