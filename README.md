@@ -30,8 +30,9 @@ A simple and secure desktop password manager built with Python. This application
 - Python 3.10 or later
 - Tkinter (comes pre-installed with Python)
 - pyperclip for clipboard support
+```pip
   pip install pyperclip
-
+```
 ---
 ## 📂 Example JSON Data Format
 
@@ -46,3 +47,4 @@ A simple and secure desktop password manager built with Python. This application
     "password": "H#4lp!2SdF"
   }
 }
+```
